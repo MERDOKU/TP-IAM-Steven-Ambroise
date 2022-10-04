@@ -47,7 +47,7 @@ Je représente\
 L'École du micro d'argent\
 L'École du micro d'argent\
 
-| | |Akhenaton |\
+Akhenaton
 
 Mon sabre scintille, je médite accroupi sous les branches d'un saule\
 Pleure, je défendsl'honneur de mon école, fils\
@@ -83,5 +83,5 @@ Je représente\
 L'École du micro d'argent\
 L'École du micro d'argent\
 
-Source:MusixmatchParoliers: Ron Smith / Geoffroy Mussard / Eric Mazel /Pascal Jean Perez / Philippe Tristan Fragione / William Greene\
+Source: MusixmatchParoliers: Ron Smith / Geoffroy Mussard / Eric Mazel /Pascal Jean Perez / Philippe Tristan Fragione / William Greene\
 Paroles de L’École du micro d’argent © Cote Obscur
