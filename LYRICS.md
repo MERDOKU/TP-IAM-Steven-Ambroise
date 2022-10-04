@@ -12,7 +12,7 @@ L'École du micro d'argent\
 L'École du micro d'argent\
 L'École du micro d'argent
 
-Shurik'n
+## Shurik'n
 
 Assis en tailleur, voilà des heures queje médite\
 Sur ma montagne et je n'arrive pas à faire le vide\
@@ -47,7 +47,7 @@ Je représente\
 L'École du micro d'argent\
 L'École du micro d'argent
 
-Akhenaton
+## Akhenaton
 
 Mon sabre scintille, je médite accroupi sous les branches d'un saule\
 Pleure, je défendsl'honneur de mon école, fils\
